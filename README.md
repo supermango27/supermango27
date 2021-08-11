@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @supermango27
+- 👀 I’m interested in mangos.
+- 🌱 I’m currently learning MangoDB
+- 💞️ I’m looking to collaborate on fruit
+- 📫 This is a mailbox
